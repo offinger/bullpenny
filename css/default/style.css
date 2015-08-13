@@ -3150,7 +3150,7 @@ input[type="radio"]:checked + label {
 }
 .marketing_app ul li {
 	float: left;
-	margin-right: 40px;
+	margin-right: 30px;
 	line-height: 22px;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 12px;
