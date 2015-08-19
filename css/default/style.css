@@ -1142,6 +1142,117 @@ footer .copyright a {
 	letter-spacing: 0.5px;
 }
 /*----------------------------------------------------------------*/
+/*----------------------------------------------------------------*/
+.pageCoverWeb {
+	background: url('../../images/sublime.jpg') no-repeat scroll center top #22262c;
+	text-transform: uppercase;
+	padding: 128px 0;
+}
+.pageCoverWeb h3 {
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 1;
+	letter-spacing: 0.5px;
+	margin: 0;
+	text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.15);
+}
+.pageCoverWeb .breadcrumb {
+	float: right;
+	background: none;
+	border-radius: 0;
+	padding: 0;
+	margin: 0;
+}
+.pageCoverWeb .breadcrumb li {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #fff;
+}
+.pageCoverWeb .breadcrumb li:before {
+	color: #fff;
+}
+.pageCoverWeb .breadcrumb li a {
+	color: #fff;
+	padding: 0;
+	line-height: 1;
+	letter-spacing: 0.5px;
+}
+/*----------------------------------------------------------------*/
+/*----------------------------------------------------------------*/
+.pageCoverSoft {
+	background: url('../../images/soft.jpg') no-repeat scroll center top #22262c;
+	text-transform: uppercase;
+	padding: 128px 0;
+}
+.pageCoverSoft h3 {
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 1;
+	letter-spacing: 0.5px;
+	margin: 0;
+	text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.15);
+}
+.pageCoverSoft .breadcrumb {
+	float: right;
+	background: none;
+	border-radius: 0;
+	padding: 0;
+	margin: 0;
+}
+.pageCoverSoft .breadcrumb li {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #fff;
+}
+.pageCoverSoft .breadcrumb li:before {
+	color: #fff;
+}
+.pageCoverSoft .breadcrumb li a {
+	color: #fff;
+	padding: 0;
+	line-height: 1;
+	letter-spacing: 0.5px;
+}
+/*----------------------------------------------------------------*/
+/*----------------------------------------------------------------*/
+.pageCoverComm {
+	background: url('../../images/ecomm.jpg') no-repeat scroll center top #22262c;
+	text-transform: uppercase;
+	padding: 128px 0;
+}
+.pageCoverComm h3 {
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 1;
+	letter-spacing: 0.5px;
+	margin: 0;
+	text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.15);
+}
+.pageCoverComm .breadcrumb {
+	float: right;
+	background: none;
+	border-radius: 0;
+	padding: 0;
+	margin: 0;
+}
+.pageCoverComm .breadcrumb li {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #fff;
+}
+.pageCoverComm .breadcrumb li:before {
+	color: #fff;
+}
+.pageCoverComm .breadcrumb li a {
+	color: #fff;
+	padding: 0;
+	line-height: 1;
+	letter-spacing: 0.5px;
+}
+/*----------------------------------------------------------------*/
 .page_checkout textarea {
 	margin-bottom: 70px;
 }
